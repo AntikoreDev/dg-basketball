@@ -1,0 +1,30 @@
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\Antikore BBMod.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\Antikore BBMod.pdb
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\DuckGame.exe
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\DGSteam.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\DGInput.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\NAudio.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\NVorbis.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\CrashWindow.exe
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\NVorbis.NAudioSupport.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\DuckGame.pdb
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\DuckGame.xml
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\DuckGame.exe.config
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\DGSteam.pdb
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\DGInput.pdb
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\NAudio.xml
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\CrashWindow.pdb
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\CrashWindow.exe.config
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\obj\x86\Debug\Antikore BBMod.csprojAssemblyReference.cache
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\obj\x86\Debug\Antikore BBMod.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\obj\x86\Debug\Antikore BBMod.csproj.CopyComplete
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\obj\x86\Debug\Antikore BBMod.dll
+C:\Users\Pablo\Documents\DuckGame\Mods\Antikore BBMod\obj\x86\Debug\Antikore BBMod.pdb
